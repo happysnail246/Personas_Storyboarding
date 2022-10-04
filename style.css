@@ -1,0 +1,28 @@
+
+h1 {
+    /* color: ; */
+    /* font-weight: 200; */
+
+
+}
+
+body {
+    background-color: beige;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: 100;
+}
+
+#part1 {
+    display:flex; 
+    justify-content: center;
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
